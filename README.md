@@ -2,6 +2,7 @@
 
 This command-line tool fetches and displays GitHub Copilot seat usage for a specified organization. It is a Rust rewrite of the original TypeScript version, designed for improved performance and reliability.
 
+ [🇨🇳 中文文档](./README-zh.md)
 ## Features
 
 -   Fetches all assigned Copilot seats for a GitHub organization.
